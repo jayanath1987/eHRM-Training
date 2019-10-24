@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Institute</source>
+                <target>நிறுவனம்</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Training Institute Summary</source>
+                <target>பயிற்சி நிறுவனம் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>New Institute Define</source>
+                <target>புதிய நிறுவனம் வரையறுத்து</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Institute Name</source>
+                <target>நிறுவனம் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Training Calendar Year</source>
+                <target>பயிற்சி காலெண்டர் ஆண்டு</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Content</source>
+                <target>உள்ளடக்கம்</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Employee Training Summery</source>
+                <target>பணியாளர் பயிற்சி Summery</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Institute Name Sinhala</source>
+                <target>நிறுவனம் பெயர் சிங்களம்</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Institute Name Tamil</source>
+                <target>நிறுவனம் பெயர் தமிழ்</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Update Institute Name</source>
+                <target>மேம்படுத்தல் நிறுவனம் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Training Calendar Year</source>
+                <target>பயிற்சி காலெண்டர் ஆண்டு</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Training Code</source>
+                <target>பயிற்சி கோட்</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>Training Name</source>
+                <target>பயிற்சி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Medium</source>
+                <target>ஊடகம்</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Venue</source>
+                <target>சந்திக்கும் இடம்</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Date From</source>
+                <target>வரம்பு தேதி</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>Date To</source>
+                <target>தேதி</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Time From</source>
+                <target>வரம்பு முறை</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Time To</source>
+                <target>நேரம்</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>Objective</source>
+                <target>குறிக்கோள்</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>Contents</source>
+                <target>பொருளடக்கம்</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Fields marks with</source>
+                <target>உடன் துறைகளில் மதிப்பெண்கள்</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>Required</source>
+                <target>தேவைப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>Course Fee(If applicable)</source>
+                <target>நிச்சயமாக கட்டணம் (இருந்தால்)</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>New Training Define</source>
+                <target>புதிய பயிற்சி வரையறுத்து</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>Training List</source>
+                <target>பயிற்சி பட்டியல்</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>Update Course</source>
+                <target>பாடநெறி மேம்படுத்த</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>Training start date should be less than end date</source>
+                <target>பயிற்சி தொடக்க தேதி முடிவு தேதி விட குறைவாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>Valid Calendar Year is required</source>
+                <target>செல்லுபடியாகும் காலண்டர் ஆண்டில் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>Training Code is required</source>
+                <target>பயிற்சி குறியீடு தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>Training Name is required</source>
+                <target>பயிற்சி பெயர் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>Start Date is required</source>
+                <target>தொடக்க தேதி தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>End Date is required</source>
+                <target>இறுதியில் தேதி தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>Invalid Institute Name</source>
+                <target>செல்லாத நிறுவனம் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="35">
+                <source>Length of Objective should be less than 200 characters</source>
+                <target>குறிக்கோள் நீளம் 200 எழுத்துகள் விட குறைவாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>Length of For Whom should be less than 200 characters</source>
+                <target>யாருக்காக நீளம் 200 எழுத்துகள் விட குறைவாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Length of Content should be less than 200 characters</source>
+                <target>உள்ளடக்க நீளம் 200 எழுத்துகள் விட குறைவாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="38">
+                <source>Invalid Medium</source>
+                <target>செல்லாத நடுத்தர</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>Training Year is required</source>
+                <target>பயிற்சி வருடம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>Employee List</source>
+                <target>பணியாளர் பட்டியல்</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>General Comment</source>
+                <target>கருத்து</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>Training</source>
+                <target>பயிற்சி</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>Yes</source>
+                <target>ஆம்</target>
+            </trans-unit>
+            <trans-unit id="44">
+                <source>No</source>
+                <target>இல்லை</target>
+            </trans-unit>
+            <trans-unit id="45">
+                <source>Employee Name</source>
+                <target>பணியாளர் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="46">
+                <source>Participated</source>
+                <target>பங்கு</target>
+            </trans-unit>
+            <trans-unit id="47">
+                <source>Approved by Divisional Head</source>
+                <target>பிரதேச தலைவர் ஒப்புதல்</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>Comment</source>
+                <target>கருத்து</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>Training Calendar Year</source>
+                <target>பயிற்சி காலெண்டர் ஆண்டு</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>Attend to training (Yes/No)</source>
+                <target>பயிற்சி (இல்லை / ஆமாம்) கவனிக்க</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>Edit Admin Approved List</source>
+                <target>நிர்வாகம் அங்கீகரிக்கப்பட்ட பட்டியல் திருத்தும்</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>Approved (Yes/No)</source>
+                <target>அங்கீகரிக்கப்பட்ட (இல்லை / ஆமாம்)</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>Training Record Summary</source>
+                <target>பயிற்சி பதிவு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Training Record Feedback Summary</source>
+                <target>பயிற்சி பதிவு கருத்து சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Effectiveness</source>
+                <target>திறன்</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Admin Remarks</source>
+                <target>நிர்வாகம் குறிப்புகள்</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Duration of Training</source>
+                <target>பயிற்சி காலம்</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Conducted Person</source>
+                <target>நடத்திய நபர்</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Conducted Date</source>
+                <target>நடத்தப்படும் தேதி</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>Remarks</source>
+                <target>கருத்துக்கள்</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>New Training Record</source>
+                <target>புதிய பயிற்சி பதிவு</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Update Training Record</source>
+                <target>பயிற்சி பதிவு புதுப்பிக்க</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>Pending Admin Approval List</source>
+                <target>நிர்வாகம் அனுமதி பட்டியல் நிலுவையில்</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Pending Admin Approval List</source>
+                <target>நிர்வாகம் அனுமதி பட்டியல் நிலுவையில்</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Department</source>
+                <target>துறை</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Official Address</source>
+                <target>அதிகாரப்பூர்வ முகவரி</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>NIC Number</source>
+                <target>தேசிய அடையாள அட்டை எண்</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Designation or Service</source>
+                <target>பதவி அல்லது சேவை</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>Contact Phone Number</source>
+                <target>தொலைபேசி எண் தொடர்பு</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Office</source>
+                <target>அலுவலகம்</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>Mobile</source>
+                <target>மொபைல்</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>Residence</source>
+                <target>வதிவிடம்</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Fax</source>
+                <target>தொலைப்பிரதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>NIC No</source>
+                <target>தேசிய அடையாள அட்டை இலக்கம்</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>New Training Registration</source>
+                <target>புதிய பயிற்சி பதிவு</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>Apply</source>
+                <target>விண்ணப்பிக்க</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>Institute name is required</source>
+                <target>நிறுவனம் பெயர் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>Please select at least one employee</source>
+                <target>குறைந்தது ஒரு பணியாளர் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>You have already assigned to this training try another.</source>
+                <target>நீங்கள் ஏற்கனவே இந்த பயிற்சி மற்றொரு முயற்சி ஒதுக்கப்படுகிறது.</target>
+            </trans-unit>
+            <trans-unit id="79">
+                <source>Employee Training History Summary</source>
+                <target>பணியாளர் பயிற்சி வரலாறு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="80">
+                <source>Training History</source>
+                <target>பயிற்சி வரலாறு</target>
+            </trans-unit>
+            <trans-unit id="81">
+                <source>Employee Training Summary</source>
+                <target>பணியாளர் பயிற்சி சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="82">
+                <source>Admin can not register a new training</source>
+                <target>நிர்வாகம் ஒரு புதிய பயிற்சி பதிவு செய்ய முடியாது</target>
+            </trans-unit>
+            <trans-unit id="83">
+                <source>Month</source>
+                <target>மாதம்</target>
+            </trans-unit>
+            <trans-unit id="84">
+                <source>Year</source>
+                <target>ஆண்டு</target>
+            </trans-unit>
+            <trans-unit id="85">
+                <source>Training Name</source>
+                <target>பயிற்சி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="86">
+                <source>Training Summary</source>
+                <target>பயிற்சி சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="87">
+                <source>For Whom</source>
+                <target>யாருக்காக</target>
+            </trans-unit>
+            <trans-unit id="88">
+                <source>Training Plan</source>
+                <target>பயிற்சி திட்டம்</target>
+            </trans-unit>
+            <trans-unit id="89">
+                <source>Training Participation</source>
+                <target>பயிற்சி பங்கேற்பு</target>
+            </trans-unit>
+            <trans-unit id="90">
+                <source>For whom</source>
+                <target>யாருக்காக</target>
+            </trans-unit>
+            <trans-unit id="91">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="92">
+                <source>Start Date</source>
+                <target>தேதி தொடங்கும்</target>
+            </trans-unit>
+            <trans-unit id="93">
+                <source>End Date</source>
+                <target>இறுதி தேதி</target>
+            </trans-unit>
+            <trans-unit id="94">
+                <source>Participated (Yes/No)</source>
+                <target>(ஆம் / இல்லை) கலந்து</target>
+            </trans-unit>
+            <trans-unit id="95">
+                <source>Training Participation Summary</source>
+                <target>பயிற்சி பங்கேற்பு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="96">
+                <source>Add Employee</source>
+                <target>பணியாளர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="99">
+                <source>Invalid time</source>
+                <target>தவறான நேரம்</target>
+            </trans-unit>
+            <trans-unit id="100">
+                <source>Training code can not be duplicated</source>
+                <target>பயிற்சி குறியீட்டை நகல் முடியாது</target>
+            </trans-unit>
+            <trans-unit id="101">
+                <source>Training Name</source>
+                <target>பயிற்சி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="102">
+                <source>Date is not in the Training Year</source>
+                <target>தேதி பயிற்சி ஆண்டின் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="103">
+                <source>Per Head Cost</source>
+                <target>தலைமை செலவு ரூ</target>
+            </trans-unit>
+            <trans-unit id="104">
+                <source>Additional Cost</source>
+                <target>கூடுதல் செலவு</target>
+            </trans-unit>
+            <trans-unit id="105">
+                <source>Attend to training (Yes/No/Reject)</source>
+                <target>பயிற்சி (ஆம் / இல்லை / விலக்க) கவனிக்க</target>
+            </trans-unit>
+            <trans-unit id="106">
+                <source>Secretary Pending Approval List</source>
+                <target>செயலாளர் நிலுவையில் அனுமதி பட்டியல்</target>
+            </trans-unit>
+            <trans-unit id="107">
+                <source>HR Team Pending Approval List</source>
+                <target>அலுவலக குழு ஒப்புதல் பட்டியல் நிலுவையில் உள்ளது</target>
+            </trans-unit>
+            <trans-unit id="108">
+                <source>HR Admin Pending Approval List</source>
+                <target>அலுவலக நிர்வாகம் நிலுவையில் அனுமதி பட்டியல்</target>
+            </trans-unit>
+            <trans-unit id="109">
+                <source>Level</source>
+                <target>நிலை</target>
+            </trans-unit>
+            <trans-unit id="110">
+                <source>Resource Person</source>
+                <target>வள நபர்</target>
+            </trans-unit>
+            <trans-unit id="111">
+                <source>Approved (Yes/No/Reject)</source>
+                <target>அங்கீகரிக்கப்பட்ட (ஆம் / இல்லை / மறு)</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Wait..</source>
+                <target>காத்திருக்க ..</target>
+            </trans-unit>
+            <trans-unit id="113">
+                <source>Approve Status</source>
+                <target>நிலைமை ஒப்புதல்</target>
+            </trans-unit>
+            <trans-unit id="114">
+                <source>Admin cannot register for a new training</source>
+                <target>நிர்வாகம் ஒரு புதிய பயிற்சி பதிவு செய்ய முடியாது</target>
+            </trans-unit>
+            <trans-unit id="115">
+                <source>Approve Status</source>
+                <target>நிலைமை ஒப்புதல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Status</source>
+                <target>அந்தஸ்து</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee Training History Summary</source>
+                <target>பணியாளர் பயிற்சி வரலாறு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please specify valid date</source>
+                <target>செல்லுபடியாகும் தேதி குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Time</source>
+                <target>தவறான நேரம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Fees</source>
+                <target>செல்லாத கட்டணம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>No special characters allowed</source>
+                <target>அனுமதி இல்லை தனித்துவ</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin can not assign employee(s) to training.</source>
+                <target>நிர்வாகம் பயிற்சி செய்ய பணியாளர் (கள்) ஒதுக்க முடியாது.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Divisional Secretary</source>
+                <target>பிரதேச செயலாளர்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>HR Admin</source>
+                <target>அலுவலக நிர்வாகம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>HR Team</source>
+                <target>அலுவலக குழு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>District Secretary</source>
+                <target>மாவட்ட செயலாளர்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source/>
+                <target># மதிப்புருக்கள்?</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source/>
+                <target># மதிப்புருக்கள்?</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>This field is required</source>
+                <target>இந்த புலம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You are not assigned or not requested to this training</source>
+                <target>நீங்கள் ஒதுக்கப்படாத அல்லது இந்த பயிற்சி கேட்டு இல்லை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>This field is required</source>
+                <target>இந்த புலம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>year(s)</source>
+                <target>ஆண்டு (கள்)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>months(s)</source>
+                <target>மாதங்கள் (கள்)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>days(s)</source>
+                <target>நாட்கள் (கள்)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>hour(s)</source>
+                <target>மணி (கள்)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>min(s)</source>
+                <target>நிமிடம் (கள்)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You have already assigned to this training and it was rejected.</source>
+                <target>நீங்கள் ஏற்கனவே இந்த பயிற்சி ஒதுக்கப்படுகிறது மற்றும் அது நிராகரிக்கப்பட்டது.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training code can not be duplicated</source>
+                <target>பயிற்சி குறியீட்டை நகல் முடியாது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Approved</source>
+                <target>ஒப்புதல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Can not update. Admin has Commented</source>
+                <target>புதுப்பிக்க முடியாது. நிர்வாகம் வேண்டும்!</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid characters.</source>
+                <target>தவறான எழுத்துக்கள்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum length should be 75 characters</source>
+                <target>அதிகபட்ச நீளம் 75 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You are not assign or not requested to this Training</source>
+                <target>நீங்கள் ஒதுக்க அல்லது இந்த பயிற்சி கேட்டு இல்லை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training record already exists</source>
+                <target>பயிற்சி பதிவு ஏற்கனவே உள்ளது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>No invalid characters are allowed</source>
+                <target>இல்லை தவறான எழுத்துக்கள் அனுமதி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum length should be 50 characters</source>
+                <target>அதிகபட்ச நீளம் 50 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Wait..</source>
+                <target>காத்திருக்க ..</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Do you really want to Delete?</source>
+                <target>உண்மையில் நீங்கள் நீக்க விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Time</source>
+                <target>தவறான நேரம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You are not assigned or not requested to this training</source>
+                <target>நீங்கள் ஒதுக்கப்படாத அல்லது இந்த பயிற்சி கேட்டு இல்லை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training record already exists</source>
+                <target>பயிற்சி பதிவு ஏற்கனவே உள்ளது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You have already assigned to this training and it was rejected.</source>
+                <target>நீங்கள் ஏற்கனவே இந்த பயிற்சி ஒதுக்கப்படுகிறது மற்றும் அது நிராகரிக்கப்பட்டது.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Can not update. Record locked.</source>
+                <target>புதுப்பிக்க முடியாது. பூட்டிய பதிவு.</target>   
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

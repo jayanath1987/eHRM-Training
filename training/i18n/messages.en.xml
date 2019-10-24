@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Institute</source>
+                <target>Institute</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Institute Summary</source>
+                <target>Training Institute Summary</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Institute Define</source>
+                <target>Define Institute</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute Name</source>
+                <target>Institute Name</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Calender year</source>
+                <target>Training Calender year</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Content</source>
+                <target>Content</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training</source>
+                <target>Training</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Training summery</source>
+                <target>Employee Training summery</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute Name Sinhala</source>
+                <target>Institute Name Sinhala</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute Name Tamil</source>
+                <target>Institute Name Tamil</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Update Institute Name</source>
+                <target>Update Institute Name</target>
+            </trans-unit>      
+            <trans-unit id="1">
+                <source>Training Code</source>
+                <target>Training Code</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Name</source>
+                <target>Training Name</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Medium</source>
+                <target>Medium</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Venue</source>
+                <target>Venue</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date from</source>
+                <target>Date from</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date To</source>
+                <target>Date To</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Time from</source>
+                <target>Time from</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Time To</source>
+                <target>Time To</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Objective</source>
+                <target>Objective</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>For Whom</source>
+                <target>For Whom</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Contents</source>
+                <target>Contents</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Fields Marks with</source>
+                <target>Fields Marks with</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Fields Marks with</source>
+                <target>Required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Course fee If Applicable</source>
+                <target>Course fee If Applicable</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>New Training Define</source>
+                <target>Define Training</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training List</source>
+                <target>Training List</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Update Course</source>
+                <target>Update Course</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training start date should be less than end date</source>
+                <target>Training start date should be less than end date</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Calender Year is required</source>
+                <target>Calender Year is required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Code is required</source>
+                <target>Training Code is required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Name is required</source>
+                <target>Training Name is required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Start Date is required</source>
+                <target>Start Date is required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>End Date is required</source>
+                <target>End Date is required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Institute Name</source>
+                <target>Invalid Institute Name</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Length of Objective should be less than 200 characters</source>
+                <target>Length of Objective should be less than 200 characters</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Length of For Whom should be less than 200 characters</source>
+                <target>Length of For Whom should be less than 200 characters</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Length of Content should be less than 200 characters</source>
+                <target>Length of Content should be less than 200 characters</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Medium</source>
+                <target>Invalid Medium</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Plese enter Time from</source>
+                <target>Plese enter Time from</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Plese enter Time To</source>
+                <target>Plese enter Time To</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Year is required</source>
+                <target>Training Year is required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Calendar Year</source>
+                <target>Training Calendar Year</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Calender Year</source>
+                <target>Training Calendar Year</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Attend to training (Yes/No)</source>
+                <target>Attend to training (Yes/No)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pending Admin Approvel List</source>
+                <target>Training Approval</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>New Training Record</source>
+                <target>Training Record</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Update Training Record</source>
+                <target>Training Record</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Edit Admin Approved List</source>
+                <target>Edit Training Approval</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Valid calendar year is required</source>
+                <target>Valid calendar year is required</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee Training Histroy summary</source>
+                <target>Employee Training Histroy summary</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training History</source>
+                <target>Training History</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Remove</source>
+                <target>Remove</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Add Employee</source>
+                <target>Add Employee</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee Training summary</source>
+                <target>Employee Training summary</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin can not register a new training</source>
+                <target>Admin can not register a new training</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Month</source>
+                <target>Month</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Year</source>
+                <target>Year</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Training Summary</source>
+                <target>Training Summary</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Whom</source>
+                <target>For Whom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Plan</source>
+                <target>Training Plan</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Record Summary</source>
+                <target>Training Record Summary</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>mobile</source>
+                <target>Mobile</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid time</source>
+                <target>Invalid time</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date is not in the Training Year</source>
+                <target>Date is not in the Training Year</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Update Course</source>
+                <target>Update Training</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>year(s)</source>
+                <target>year(s)</target>
+            </trans-unit>    
+            <trans-unit id="116">
+                <source>months(s)</source>
+                <target>months(s)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>days(s)</source>
+                <target>day(s)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>hour(s)</source>
+                <target>hour(s)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>min(s)</source>
+                <target>min(s)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You have already assigned to this training and it was rejected.</source>
+                <target>You have already assigned to this training and it was rejected.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

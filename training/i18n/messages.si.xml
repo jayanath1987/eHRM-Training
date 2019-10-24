@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Institute</source>
+                <target>ආයතනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Institute Summary</source>
+                <target>පුහුණු ආයතන සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Institute Define</source>
+                <target>ආයතනය නිර්වචනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute Name</source>
+                <target>පුහුණු ආයතනයේ නම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Calender year</source>
+                <target>පුහුණු වර්ෂය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Content</source>
+                <target>අන්තර්ගතය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Training summery</source>
+                <target>සේවක පුහුණුව සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute Name Sinhala</source>
+                <target>ආයතනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute Name Tamil</source>
+                <target>ආයතනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Update Institute Name</source>
+                <target>සංස්කරණය ආයතනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Calender Year</source>
+                <target>පුහුණු වර්ෂය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Code</source>
+                <target>පුහුණු කේතය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Name</source>
+                <target>පුහුණුවේ නම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Medium</source>
+                <target>මාධ්‍යය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Venue</source>
+                <target>ස්ථානය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date from</source>
+                <target>දින සිට</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date To</source>
+                <target>දින දක්වා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Time from</source>
+                <target>කාලය සිට</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Time To</source>
+                <target>කාලය සිට</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Objective</source>
+                <target>අරමුණ</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Contents</source>
+                <target>අන්තර්ගතය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Fields Marks with</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Course fee If Applicable</source>
+                <target>පාඨමාලා ගාස්තුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>New Training Define</source>
+                <target>පුහුණුව නිර්වචනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training List</source>
+                <target>පුහුණු ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Update Course</source>
+                <target>පාඨමාලා සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training start date should be less than end date</source>
+                <target>දින සිට දින දක්වා වැරදි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Valid calendar year is required</source>
+                <target>වැරදි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Code is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Name is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Start Date is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>End Date is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Institute Name</source>
+                <target>වැරදි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Length of Objective should be less than 200 characters</source>
+                <target>වැරදි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Length of For Whom should be less than 200 characters</source>
+                <target>වැරදි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Length of Content should be less than 200 characters</source>
+                <target>වැරදි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Medium</source>
+                <target>වැරදි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Year is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee List</source>
+                <target>සේවක ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>General Comment</source>
+                <target>විස්තරය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training</source>
+                <target>පුහුණුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Yes</source>
+                <target>ඔව්</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>No</source>
+                <target>නැත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee Name</source>
+                <target>සේවක නම</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Participated</source>
+                <target>සහභාගි වූ</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Approved by Divisional head</source>
+                <target>ප්‍රධානියා අනුමත කළ</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Comment</source>
+                <target>විස්තරය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Calendar Year</source>
+                <target>පුහුණුව වර්ෂය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Attend to training (Yes/No)</source>
+                <target>සහභාගි(ඔව්/නැත)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Edit Admin Approved List</source>
+                <target>ප්‍රධානියා අනුමත ලයිස්තුව සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Approved (Yes/No)</source>
+                <target>අනුමත ද (ඔව්/නැත)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Record Summary</source>
+                <target>පුහුණු වාර්තා සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training record feedback summary</source>
+                <target>පුහුණු ප්‍රතිචාර සරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Effectiveness</source>
+                <target>සඑලතාව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin Remarks</source>
+                <target>ප්‍රධානියා සටහන</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Duration of Training</source>
+                <target>පුහුණුව පැවැතුම් කාලය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Conducted Person</source>
+                <target>මග පෙන්වීම</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Conducted Date</source>
+                <target>මග පෙන්වීම දිනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Remarks</source>
+                <target>සටහන</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>New Training Record</source>
+                <target>පුහුණුව වාර්තා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Update Training Record</source>
+                <target>සංස්කරණය පුහුණුව වාර්තා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pending Admin Approvel List</source>
+                <target>විසදීමට තිබෙන පරිපාලන අනුමත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pending Admin Approvel List</source>
+                <target>විසදීමට තිබෙන පරිපාලන අනුමත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Department</source>
+                <target>දෙපාර්තමේන්තුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Official Address</source>
+                <target>රාජකාරි ලිපිනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>NIC No </source>
+                <target>ජාතික හැදුනුම් පත් අංකය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Designation or Service</source>
+                <target>තනතුර හෝ සේවය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Contact Phone No</source>
+                <target>දූරකථනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Office</source>
+                <target>කාර්යාල</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>mobile</source>
+                <target>ජංගම</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Residence</source>
+                <target>නිවස</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Fax</source>
+                <target>ෆැක්ස්</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>NIC No</source>
+                <target>ජාතික හැදුනුම් පත් අංකය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>New Training Registration</source>
+                <target>පුහුණුව ලියාපදිංචිය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Apply</source>
+                <target>ඉල්ලුම් කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Institute name is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select at least one employee</source>
+                <target>කරුණාකර සේවකයෙක් තොරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You have already assigned to this training try another.</source>
+                <target>දෑනටමත් පුහුණුවට ඇතුලත් කොට ඇත.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee Training Histroy summary</source>
+                <target>සේවක පුහුණුව ඉතිහාස සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training History</source>
+                <target>පුහුණු ඉතිහාසය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee Training summary</source>
+                <target>සේවක පුහුණුව සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin can not register a new training</source>
+                <target>ඔබට ඇතුල් විමට අවසර නැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Month</source>
+                <target>මාසය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Year</source>
+                <target>වර්ෂය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Name</source>
+                <target>පුහුනුව නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Summary</source>
+                <target>පුහුණු සාරාංශය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Whom</source>
+                <target>පුහුණුව කාහටද?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Plan</source>
+                <target>පුහුණුවීම් සැලැස්ම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Participation</source>
+                <target>පුහුනුවීම් සහභාගිවීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For whom</source>
+                <target>කාටද</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remove</source>
+                <target>ඉවත් කරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date</source>
+                <target>ආරම්භක දවස</target>
+            </trans-unit>
+            <trans-unit>
+                <source>End Date</source>
+                <target>අවසාන දවස</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Participated (Yes/No)</source>
+                <target>සහභාගිවූ (ඔව්/නැත )</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Participation Summary</source>
+                <target>පුහුනුවීම් සහභාගිවීම සාරාංශය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Employee</source>
+                <target>සේවක එකතුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid time</source>
+                <target>වලංගු නැති වේලාව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training code can not be duplicated</source>
+                <target>පුහුනු කේතය පෙර යොදා ඇත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training Name</source>
+                <target>පුහුනුවෙ නම</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date is not in the Training Year</source>
+                <target>පුහුනු වර්ෂය දිනය තුල ඇතුලත්ව නොමැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Per Head Cost</source>
+                <target>ඒක පුද්ගල වියදම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Cost</source>
+                <target>අමතර වියදම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attend to training (Yes/No/Reject)</source>
+                <target>සහභාගි(ඔව්/නැත/ප්‍රතික්ෂේප)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Secretary Pending Approvel List</source>
+                <target>ලේකම් විසදීමට තිබෙන අනුමත</target>
+            </trans-unit>
+            <trans-unit>
+                <source>HR Team Pending Approvel List</source>
+                <target>විසදීමට තිබෙන අනුමත මානව සම්පත් කණ්ඩායම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>HR Admin Pending Approvel List</source>
+                <target>විසදීමට තිබෙන අනුමත මානව සම්පත් පරිපාලක</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Level</source>
+                <target>තරාතිරම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resource Person</source>
+                <target>පුහුණු උපදේශක</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved (Yes/No/Reject)</source>
+                <target>අනුමැතිය(ඔව්/නැත/ප්‍රතික්ෂේප)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wait..</source>
+                <target>රැදී සිටින්න...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve Status</source>
+                <target>අනුමත මට්ටම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin cannot register for a new training</source>
+                <target>කරුණාකර පරිශීලක කෙනකු ගෙන් ඇතුලුවන්න</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Approve Status</source>
+                <target>අනුමත මට්ටම</target>
+            </trans-unit>   
+            <trans-unit>
+                <source>Status</source>
+                <target>තත්වය</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Employee Training History Summary</source>
+                <target>මාගේ පුහුණු විස්තර</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Please specify valid date</source>
+                <target>දිනය වැරදිය</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Invalid Time</source>
+                <target>දිනය වැරදිය</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Invalid fees</source>
+                <target>මුදල වැරදිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No Special characters allowed</source>
+                <target>වලංගු නැති අකුරු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Can not assign employee(s) to training.</source>
+                <target>ඔබට ඇතුල් විමට අවසර නැත.</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Divisional Secretary</source>
+                <target>කොට්ඨාශය ලේකම්</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>HR Admin</source>
+                <target>මානව සම්පත් පරිපාලක</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>HR Team</source>
+                <target>මානව සම්පත් කණ්ඩායම</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>District Secretary</source>
+                <target>දිස්තික් ලේකම්</target>
+            </trans-unit>             
+            <trans-unit>
+                <source>- Pending</source>
+                <target>- විසදීමට තිබෙන</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>- Rejected</source>
+                <target>- ප්‍රතික්ෂේපිත</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>This Field is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>    
+            <trans-unit>
+                <source>You are not assigned or not requested to this training</source>
+                <target>ඔබව මෙම පුහුනුව සදහා යොමුකොට හෝ අයදුම් කර නොමැත.</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>This Field is required</source>
+                <target>සාර්ථක ලෙස එකතු කලා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>year(s)</source>
+                <target>අවුරුදු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>months(s)</source>
+                <target>මාස</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>days(s)</source>
+                <target>දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>hour(s)</source>
+                <target>පැය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>min(s)</source>
+                <target>මිනිත්තු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You have already assigned to this training and it was rejected.</source>
+                <target>මෙම පුහුණුව සදහා ඔබගේ පෙර ඉල්ලීම ප්‍රතික්ෂේප වී ඇත.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Training code can not be duplicated</source>
+                <target>පුහුණු කේතය දැනටමත් භාවිතා කර ඇත.</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Approved</source>
+                <target>අනුමතයි</target>
+            </trans-unit>            	
+        </body>
+    </file>
+</xliff>
+
